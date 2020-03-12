@@ -1,0 +1,29 @@
+{
+  "name": "@zen-hooks/use-request",
+  "version": "1.0.0",
+  "description": "React Hook for API Fetch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Parkyes90/zen-hooks.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "fetch"
+  ],
+  "author": "parkyes90",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Parkyes90/zen-hooks/issues"
+  },
+  "homepage": "https://github.com/Parkyes90/zen-hooks#readme",
+  "peerDependencies": {
+    "axios": "^0.19.2",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0"
+  }
+}
